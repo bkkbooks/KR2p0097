@@ -20,7 +20,13 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR2p0097_001-CHANT.markers.yaml, hash: 'sha256:270cc2678522e7893f02450a65db789369e8e86ff5924cffc0030f8b94230383'}
 table_of_contents:
-- ref: {seq: 1, marker_id: KR2p0097_CHANT_001-1a.1-h, span: [body, 0, 316]}
+- ref:
+    seq: 1
+    marker_id: KR2p0097_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 316
   label: 馬王堆漢墓帛書雜禁方釋文
   type: section
   level: 1
